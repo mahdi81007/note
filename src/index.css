@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "estedad";
+  src: url("./assets/fonts/Estedad[wght,kshd].woff2");
+}
+
+body , html{
+  height: 100%;
+  direction: rtl;
+  background: white;
+  font-family: "estedad";
+}
+button{
+  font-family: "estedad";
+}

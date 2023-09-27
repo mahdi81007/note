@@ -1,0 +1,43 @@
+.btn {
+    box-sizing: border-box;
+    appearance: none;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 0.6em;
+    cursor: pointer;
+    display: flex;
+    align-self: center;
+    line-height: 1;
+    padding: 8px 15px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+
+}
+.fourth {
+    /*// background: yellow;*/
+    color: #757575;
+    cursor: pointer;
+    box-sizing: border-box;
+    height: 30px;
+    appearance: none;
+    background-color: transparent;
+    border-radius: 0.6em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    outline: none;
+    border: none;
+    transition: background 500ms ease-in-out;
+}
+.note-button--green{
+    color :green;
+    background : #5adeb0;
+}
+.note-button--red{
+    color: #8b1500;
+    background: orangered;
+}

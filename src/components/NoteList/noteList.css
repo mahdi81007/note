@@ -1,0 +1,9 @@
+.NoteList{
+    flex-basis: 20%;
+    background: #FAEAD7;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    box-sizing: border-box;
+}

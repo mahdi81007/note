@@ -1,0 +1,22 @@
+.noteForm{
+    height: 100vh;
+    justify-content: center;
+    flex-basis: 60%;
+    background: #F8EEE2;
+    padding: 0 20px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.detail{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.right-section{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

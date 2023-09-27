@@ -1,0 +1,22 @@
+.title-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.addNewFolder{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.input{
+    outline: none;
+    border: none;
+    height: 30px;
+    background: rgb(252, 241, 227)}
+.addFolder{
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}

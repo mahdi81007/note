@@ -1,0 +1,17 @@
+.lastNotes{
+    margin-top: 30px;
+    padding:0px 20px;
+}
+.lastNotesItem{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 15px;
+}
+.title{
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.60);
+    margin: 0;
+}
